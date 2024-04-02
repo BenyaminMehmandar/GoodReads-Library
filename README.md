@@ -1,0 +1,1 @@
+This repository houses an implementation of a C++ library utilizing the GoodReads dataset, encompassing essential entities such as users, authors, reviews, follow-edges, and books. Through meticulously crafted classes representing each asset, the library facilitates seamless retrieval of pertinent information and intricate relationships among these entities
